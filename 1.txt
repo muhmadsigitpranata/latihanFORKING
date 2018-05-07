@@ -1,3 +1,4 @@
 file untuk menambah latihan
 Silakan untuk menambahkan keterangan NAMA dan NIM di bawah ini:
 #NAMA_NIM_TI_PAGI
+Muhamad Sigit pranata_G.211.16.0023_TI_PAGI
